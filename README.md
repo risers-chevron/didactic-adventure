@@ -1,6 +1,6 @@
 # RAG Stack Installer
 
-One-command installer for a production-ready RAG (Retrieval-Augmented Generation) stack with N8N workflow automation, vector database, observability, and optional customer support platform.
+One-command installer for a RAG (Retrieval-Augmented Generation) stack with N8N workflow automation, vector database, observability, and optional customer support platform.
 
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-blue)
 ![Docker](https://img.shields.io/badge/docker-required-blue)
